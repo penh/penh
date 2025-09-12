@@ -13,6 +13,7 @@ Full-Stack Developer with 10+ years of experience in building scalable web appli
 - **Frontend:** React, Vue.js, Next.js, React Native
 - **Backend:** Node.js,Express.js, PHP , Laravel, Inertia.js , Laravel Livewire
 - **Web server:** Nginx,..
+- **OS** : Ubuntu,Linux Mint , Debain , Window , ...
 - **Database** Mysql , Postgres,Sqlite,Sql server , MongoDB (basic)
 - **AI/ML:** OpenAI GPT API, ChatGPT integration, AI Assistants
 - **DevOps:** Linux, Git, CI/CD,Docker,teraform,AWS,DO,Vercel,Serverless,Deplyer,Envoy,...
